@@ -1,5 +1,6 @@
-# O Gitbook de Javascript
+# O livro
 
-![Logo Javascript](js.jpg)
+![Logo Javascript](.gitbook/assets/js.jpg)
 
 Um Guia prático de Javascript e ES6+
+

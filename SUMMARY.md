@@ -1,5 +1,10 @@
+# Table of contents
+
 * [O livro](README.md)
-* [Introdução](capitulo01/introducao.md)
-    * [Configuração do Ambiente](capitulo01/ambiente.md)
-    * [Variáveis e dados](capitulo/variaveis.md)
-    
+
+## Início
+
+* [Introdução](inicio/introducao/README.md)
+  * [Configuração do Ambiente](inicio/introducao/configuracao-do-ambiente.md)
+  * [Variáveis e dados](inicio/introducao/variaveis-e-dados.md)
+
